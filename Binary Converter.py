@@ -19,4 +19,4 @@ def binToNum(bin):
         num = 2 * num + int(binNum)
     return num
     
-
+    
